@@ -1,0 +1,26 @@
+/* .background-image {
+    background-image: url("../../assets/images/bg.jpg");
+    background-size: cover; 
+    background-position: center;
+   
+    background-repeat: no-repeat;
+
+    font-family: Arial, sans-serif;
+    color: #333;
+    width: 100%;
+    height: 100vh;
+}
+   */
+   .background-image {
+    /* Set background image */
+    background-image: url("../../assets/images/bg.jpg");
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    font-family: Arial, sans-serif;
+    color: #333;
+    width: 100%;
+    height: 100vh;
+    /* Additional styles for troubleshooting */
+    border: 2px solid white; 
+}
